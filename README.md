@@ -1,5 +1,7 @@
-# ROCKETPOOL RATIOGANG
+# AVAX.GG
 
-This is a hype site for <a href="https://rocketpool.net" target="_blank">Rocketpool</a>, the first decentralized staking pool for Ethereum. It describes price history and information about the RPL protocol. Consider becoming a validator or staking your ETH with Rocketpool!
+This is a hype site for <a href="https://www.avax.network/" target="_blank">Avalanche</a>, the best decentralized blockchain. It describes price history and information about the AVAX protocol. Consider becoming a validator or delegating your AVAX today!
 
-## <a href="https://rocketratiogang.com" target="_blank">Live Demo</a>
+## <a href="https://avax.gg" target="_blank">Build</a>
+
+### <a href="https://nextjs.org/docs" target="_blank">web app build resources</a>
